@@ -3,11 +3,11 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Ryan Bower -- @ryan-bower -- Site Creator
 
 # THANKS
 
-    <name>
+    Joe Lynn -- @joe-lynn -- helping with the initial setup of my file structure, and constant emotional support.
 
 # TECHNOLOGY COLOPHON
 
